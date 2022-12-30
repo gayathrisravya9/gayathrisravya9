@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gayathrisravya9
 - 👀 I’m interested in exploring the world of coding
-- 🌱 I’m currently pursuing my Undergraduate course in Computer Science and Engineering in B.V.Raju Institute of Technology 
+- 🌱 I’m currently pursuing my Undergraduate degree course in Computer Science and Engineering in B.V.Raju Institute of Technology 
 
 
 <!---
